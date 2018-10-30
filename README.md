@@ -2,7 +2,9 @@
 
 ### React App Showing Teams and Goalgetters of German Soccer Leagues
 
-###  [Depoyed with surge](http://zesty-burn.surge.sh/)
+### latest [Deployment with gh-pages](http://rkloecker.github.io/react-buli-teams-app)
+
+### older [Deployment with surge](http://zesty-burn.surge.sh/)
 
 ### based on open source api [OpenLigaDB](https://www.openligadb.de/) 
 
